@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hemant
 - 👀 I’m interested in Frontend development
-- 🌱 I’m currently learning React
+- 🌱 I’m constantly learning React and implementing in new projects
 - 💞️ I’m looking to collaborate on frontend projects
 - 📫 How to reach me +91 7278656823
 
