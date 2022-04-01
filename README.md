@@ -55,9 +55,9 @@ Hi, I'm Hemant Prasad, a Frontend Web Developer 🚀 from Kolkata, India, curren
 <p align="center">
   <i>Let's connect and chat! Find me on the web...</i>
   
-  <div align="center">
    [![Linkedin Badge](https://img.shields.io/badge/-@hemant_prasad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imhkp4u/)](https://www.linkedin.com/in/imhkp4u/) [![Twitter Badge](https://img.shields.io/badge/-@hemant_prasad-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/HemantP65524466)](https://twitter.com/HemantP65524466) [![Facebook Badge](https://img.shields.io/badge/-@____hemant____prasad____-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/imhkp4u)](https://www.facebook.com/imhkp4u)
-</div>
+    
+    
   <p align="center">
     Show ❤️ by starring repositories you find good! 
     <br />
