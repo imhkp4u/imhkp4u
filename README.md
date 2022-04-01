@@ -45,7 +45,7 @@ Hi, I'm Hemant Prasad, a Frontend Web Developer 🚀 from Kolkata, India, curren
 
 <p align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=imgkp4u&hide=stars&show_icons=true&theme=dracula&line_height=32">
+  <img src="https://github-readme-stats.vercel.app/api?username=imhkp4u&hide=stars&show_icons=true&theme=dracula&line_height=32">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imhkp4u&count_private=true&theme=dracula">
 
 </p>
