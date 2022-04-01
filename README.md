@@ -1,6 +1,3 @@
-[![Linkedin Badge](https://img.shields.io/badge/-@hemant_prasad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imhkp4u/)](https://www.linkedin.com/in/imhkp4u/) [![Twitter Badge](https://img.shields.io/badge/-@hemant_prasad-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/HemantP65524466)](https://twitter.com/HemantP65524466) [![Facebook Badge](https://img.shields.io/badge/-@____hemant____prasad____-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/imhkp4u)](https://www.facebook.com/imhkp4u)
- 
-
 ### Hey 👋🏽, I'm [Hemant! - hemant-personal-portfolio.herokuapp.com/](https://hemant-personal-portfolio.herokuapp.com/)  
 ![Profile views](https://gpvc.arturio.dev/imhkp4u)  <img src="https://img.shields.io/github/followers/imhkp4u?label=Follow" style=" float:left, margin-right:10px" /> 
 
@@ -8,8 +5,6 @@
 <br/>
 
 Hi, I'm Hemant Prasad, a Frontend Web Developer 🚀 from Kolkata, India, currently, I'm a  R&D Software Engineering Specialist 👨🏽‍💼[@Dassault Systems](https://www.3ds.com/). 
-
-####      ![](https://img.shields.io/badge/Web%20Designing-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/Google%20Cloud-%3C%2F%3E-yellow) ![](https://img.shields.io/badge/Python-%7C-0%2C%2022%2C%20100) ![](https://img.shields.io/badge/C++-%7C-yellowgreen) ![](https://img.shields.io/badge/Augmented%20Reality-%7C-blue) ![](https://img.shields.io/badge/SEO-%7C-ff69b4) ![](https://img.shields.io/badge/Testing-%3C%2F%3E-blueviolet)
 
 ---
   
@@ -46,8 +41,33 @@ Hi, I'm Hemant Prasad, a Frontend Web Developer 🚀 from Kolkata, India, curren
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=imhkp4u&show_icons=true&hide_border=true)
+**Github Stats:**
+
+<p align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=imgkp4u&hide=stars&show_icons=true&theme=dracula&line_height=32">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imhkp4u&count_private=true&theme=dracula">
+
+</p>
 
 ---
 
-⭐️ From [imhkp4u](https://github.com/[imhkp4u])
+<p align="center">
+  <i>Let's connect and chat! Find me on the web...</i>
+  
+   [![Linkedin Badge](https://img.shields.io/badge/-@hemant_prasad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imhkp4u/)](https://www.linkedin.com/in/imhkp4u/) [![Twitter Badge](https://img.shields.io/badge/-@hemant_prasad-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/HemantP65524466)](https://twitter.com/HemantP65524466) [![Facebook Badge](https://img.shields.io/badge/-@____hemant____prasad____-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/imhkp4u)](https://www.facebook.com/imhkp4u)
+
+  <p align="center">
+    Show ❤️ by starring repositories you find good! 
+    <br />
+    ⭐️ From [Hemant Prasad](https://github.com/imhkp4u)
+    <br />
+    Also, star and fork this repository if you wish to give this new feature a try!
+  </p>
+</p>
+
+<div align="right">
+  
+[![HitCount](http://hits.dwyl.com/imhkp4u/imhkp4u.svg)](http://hits.dwyl.com/imhkp4u/imhkp4u) ![ViewCount](https://views.whatilearened.today/views/github/imhkp4u/imhkp4u.svg) [![Thanks!](https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg)](https://hemant-personal-portfolio.herokuapp.com/)
+
+</div>
