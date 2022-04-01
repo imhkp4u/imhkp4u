@@ -2,7 +2,7 @@
  
 
 ### Hey 👋🏽, I'm [Hemant! - hemant-personal-portfolio.herokuapp.com/](https://hemant-personal-portfolio.herokuapp.com/)  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imhkp4u" alt="imhkp4u" /> </p> 
+![Profile views](https://gpvc.arturio.dev/imhkp4u)  <img src="https://img.shields.io/github/followers/imhkp4u?label=Follow" style=" float:left, margin-right:10px" /> 
 
 
 <br/>
