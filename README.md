@@ -3,7 +3,7 @@
 
 <br/>
 
-Hi, I'm a Frontend Web Developer 🚀 bases out of Kolkata, India. As of now I'm working as a Software Engineer - UI👨🏽‍💼 @Boeing[@Dassault Systems]((https://www.boeing.co.in/)). 
+Hi, I'm a Frontend Web Developer 🚀 bases out of Kolkata, India. As of now I'm working as a Software Engineer - UI👨🏽‍💼 @[Boeing]((https://www.boeing.co.in/)). 
 
 ---
   
