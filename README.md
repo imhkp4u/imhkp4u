@@ -3,15 +3,15 @@
 
 <br/>
 
-Hi, I'm a Frontend Web Developer 🚀 bases out of Kolkata, India. As of now I'm working as a Software Engineer - UI👨🏽‍💼 @[Boeing]((https://www.boeing.co.in/)). 
+Hi, I'm a Frontend Web Developer 🚀 based out of Kolkata, India. As of now I'm working as a Software Engineer - UI👨🏽‍💼 @[Boeing](https://www.boeing.co.in/) 
 
 ---
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently a Frontend developer with [Dassault Systems](https://www.3ds.com/) working on CATIA product;
+- 👨🏽‍💻 I’m currently a Frontend developer with [Boeing India](https://www.boeing.co.in/) working on BLS product;
 - 🌱 I’m currently learning to develop performant web apps; 
-- 🤔 My interests are with Javascript, ReactJs, gaming;
+- 🤔 My interests are with Javascript, ReactJs, Angular, gaming;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via hemantprasad99.hp@gmail.com to reach me.
 - 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1KGnscUMWSzRXD7PQgN37vB0XKke7NdGQ/view?usp=sharing) to get more info.
