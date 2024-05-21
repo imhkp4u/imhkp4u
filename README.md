@@ -1,10 +1,9 @@
-### Hey 👋🏽, I'm [Hemant! - hemant-personal-portfolio.herokuapp.com/](https://hemant-personal-portfolio.herokuapp.com/)  
-![Profile views](https://gpvc.arturio.dev/imhkp4u)  <img src="https://img.shields.io/github/followers/imhkp4u?label=Follow" style=" float:left, margin-right:10px" /> 
+### Hey! 👋🏽👋🏽👋🏽
 
 
 <br/>
 
-Hi, I'm Hemant Prasad, a Frontend Web Developer 🚀 from Kolkata, India, currently, I'm a  R&D Software Engineering Specialist 👨🏽‍💼[@Dassault Systems](https://www.3ds.com/). 
+Hi, I'm a Frontend Web Developer 🚀 bases out of Kolkata, India. As of now I'm working as a Software Engineer - UI👨🏽‍💼 @Boeing[@Dassault Systems]((https://www.boeing.co.in/)). 
 
 ---
   
